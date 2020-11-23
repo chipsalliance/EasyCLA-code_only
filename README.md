@@ -8,7 +8,7 @@ Once you have signed as an individual or been added to your company's approved c
 
 ## To open a test PR:
 
- 1. Click the edit icon at the top right.
+ 1. Click the edit icon at the top left.
  1. Make a change to the text on this page, for example, to fix this spleling error. (your change will be deleted).
  1. At the bottom, commit changes and select "Create a **new branch** for this commit and start a pull request."
  1. Open the pull request.
