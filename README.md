@@ -1,6 +1,6 @@
 # CLA test repo (for code projects)
 
-This is a test repo as we prepare to enable the CLA. Any PRs against this repo will kick off the signature flow. If you or your organization plan to be a regular contributor, please open a PR against this file. 
+This is a test repo as we prepare to enable the CLA. Any PRs against this repo will kick off the signature flow. If you or your organization plan to be a regular contributor, please open a PR against this file.
 
 Please note there is a separate CLA for contributions to specification projects that also includes OWFa. If you plan to contribute to specification projects, you should also open a test PR against https://github.com/chipsalliance/CLA-test-code_spec.
 
@@ -15,4 +15,3 @@ Once you have signed as an individual or been added to your company's approved c
  1. Your PR should be blocked. Click Details to be taken to EasyCLA.
  1. Follow the prompts as an individual, or on behalf of your company. If you're signing on behalf of your company, you should find out who can sign legal agreements, as well as who is allowed to say which developers are covered by the agreement.
  1. Once the CLA has been signed, you might need to close and re-open the PR to re-run the check. When you have a green checkmark, you're ready to go.
- 
