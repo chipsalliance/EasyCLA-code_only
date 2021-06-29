@@ -6,7 +6,7 @@ Please note there is a separate CLA for contributions to specification projects 
 
 Once you have signed as an individual or been added to your company's approved contributors list you will not be prompted to sign the CLA again.
 
-## To open a test PR:
+## To open a test GitHub PR:
 
  1. Click the edit icon at the top right.
  1. Make a change to the text on this page, for example, to fix this horrible spelling error. (your change will be deleted).
