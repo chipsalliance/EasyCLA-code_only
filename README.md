@@ -1,4 +1,5 @@
 # CLA Onboarding Repo (Code-only projects)
+test
 
 CHIPS Alliance requires all code-only projects to accept contributions under a CLA. We use the EasyCLA tool to ensure that all contributors have signed the appropriate documents.
 
