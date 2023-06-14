@@ -12,4 +12,4 @@ All PRs will be closed periodically.
 
 To learn more about this process, [please visit the CHIPS Alliance TSC repository](https://github.com/chipsalliance/tsc/tree/main/cla).
 
-Updated
+Updated - 2
